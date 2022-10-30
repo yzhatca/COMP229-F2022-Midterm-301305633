@@ -1,6 +1,10 @@
 // Name: Zhihao Yu
 // ID: 301305633
 // Midterm code
+// Link of Heroku:https://midtermtestyzh.herokuapp.com/
+// github Repository:https://github.com/yzhatca/COMP229-F2022-Midterm-301305633
+// Video presentation: https://www.youtube.com/watch?v=6_Ct0zziXfA
+
 
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');

@@ -1,6 +1,11 @@
 // Name: Zhihao Yu
 // ID: 301305633
+// Link of Heroku:https://midtermtestyzh.herokuapp.com/
+// github Repository:https://github.com/yzhatca/COMP229-F2022-Midterm-301305633
+// Video presentation: https://www.youtube.com/watch?v=6_Ct0zziXfA
+
 // app.js file, import packages, creating express service 
+
 
 // moddules for node and express
 let createError = require('http-errors');
