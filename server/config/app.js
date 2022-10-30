@@ -1,3 +1,7 @@
+// Name: Zhihao Yu
+// ID: 301305633
+// app.js file, import packages, creating express service 
+
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');

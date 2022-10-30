@@ -1,3 +1,7 @@
+// Name: Zhihao Yu
+// ID: 301305633
+// mongodb schema
+
 let mongoose = require('mongoose');
 
 // create a model class
